@@ -1,4 +1,4 @@
-#Weather and Vacation Analysis using APIs in Python
+# Weather and Vacation Analysis using APIs in Python
 
   
 Step 1:  Visualize the weather of 500+ cities across the world at varying distances from the equator.  
