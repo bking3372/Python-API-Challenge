@@ -13,6 +13,17 @@ This analysis included:
        - Wind Speed vs Latitude
   *  Running a linear regression on each relationship and separating the data by Northern Hemisphere and Souther Hemisphere; creating plots for each of the relationships (temperature, humidity, cloudiness, wind speed) for the cities in each hemisphere
      
+Data observations:
+  *  This analysis shows that temperatures are higher for cities that are closer to the equator and lower for those cities farther from the equator.  
+  
+  ![Temp Image](https://github.com/bking3372/US-Wildfire-Analysis/blob/main/images/Wildfires4.jpg)
+  
+  *  There is little to no relationship between the other weather variables (humidity, cloudiness, and wind speed) and a city's location with respect to the equator.  This is shown by scatter plots with no distinct patterns in the data.
+  
+  ![Humidity Image](https://github.com/bking3372/US-Wildfire-Analysis/blob/main/images/Wildfires4.jpg)
+  ![Cloud Image](https://github.com/bking3372/US-Wildfire-Analysis/blob/main/images/Wildfires4.jpg)
+  ![Wind Image](https://github.com/bking3372/US-Wildfire-Analysis/blob/main/images/Wildfires4.jpg)
+
  
 ### Step 2:  Using the cities in the data set from Step 1, plan a place to go on vacation.
  
