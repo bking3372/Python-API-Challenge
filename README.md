@@ -37,3 +37,4 @@ Data observations:
    *  Plotting these cities in the original heat map with markers for each city and an info box with the city's name,
       country, and the hotel found for each city
  
+ ![Hotel Map](https://github.com/bking3372/Weather-and-Vacation-Analysis/blob/master/VacationPy/Hotel%20Marker%20Map%20with%20Info%20Box%20Final.PNG)
